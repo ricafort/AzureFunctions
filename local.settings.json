@@ -1,0 +1,7 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=blazorsample;AccountKey=byNQ7lk6z6Wbkyo6WjNgFnsyyaKLB70Fp7RASo/ciHRO2u5z2ztreICR3c+oZG0hPMUF5xh8ldKFAh3gHfQghA==;",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+    }
+}
